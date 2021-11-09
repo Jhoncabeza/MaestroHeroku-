@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "documento": 1234,
+            "nombres": "David",
+            "apellidos": "Herrera",
+            "telefono": 2456788,
+            "celular": 3167890087,
+            "direccion": "CR 65 #67 89",
+            "imagen": " https://res.cloudinary.com/duzf4vfki/image/upload/v1630692325/Clases/geek_wctguy.png"
+        }
+    ]
+}
